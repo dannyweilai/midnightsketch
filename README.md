@@ -1,2 +1,4 @@
-# midnightsketch
-A repository for hosting the Midnight Sketch plugin.
+# Midnight
+### Dark Theme Sketch Plugin   
+
+Double-click the Midnight.sketchplugin bundle to install Midnight.
