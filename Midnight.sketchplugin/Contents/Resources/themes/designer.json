@@ -1,0 +1,24 @@
+{
+    "id" : "designer",
+    "name" : "Designer",
+    "colors" : {
+        "text" : "dddddd",
+        "textfieldBackground" : "212121",
+        "canvas" : "232220",
+        "canvasEmpty" : "202020",
+        "sidebars" : "2E2D2B",
+        "toolbar" : "282825",
+        "accent" : "4882C9",
+        "borders" : "1E1D1B",
+        "layerListArtboard" : "4F4E49",
+        "layerListLayerOdd" : "3A3936",
+        "layerListLayerEven" : "403E3A",
+        "inspectorSectionHeader" : "4F4E49",
+        "colorPickerBackground" : "353432",
+        "sheetBackground" : "2E2D2B",
+        "sheetHeader" : "4F4D49",
+        "overridesHeader" : "42413D",
+        "stepperBackground" : "42413D",
+        "stepperArrows" : "cccccc"
+    }
+}

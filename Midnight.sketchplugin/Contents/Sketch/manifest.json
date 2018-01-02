@@ -1,0 +1,33 @@
+{
+	"name": "Midnight",
+	"description": "Dark theme for Sketch UI.",
+	"author": "Danny Lai and Yi-Ming Liu",
+	"authorEmail": "dannyweilai@gmail.com",
+	"homepage": "https://midnightsketch.com/",
+	"identifier": "com.midnightsketch.Midnight",
+	"compatibleVersion": "48",
+	"version": "1.0",
+	"disableCocoaScriptPreprocessor": true,
+	"commands": [{
+		"name": "Midnight - Dark Theme",
+		"identifier": "openConfigWindow",
+		"script": "plugin.js",
+		"handler": "showConfigWindowHandler",
+		"description": "Configure dark theme.",
+		"icon": "runner-midnight-icon.png"
+	}, {
+		"script": "plugin.js",
+		"handlers": {
+			"actions": {
+				"Startup": "startupHandler",
+				"OpenDocument": "openDocumentHandler"
+			}
+		}
+	}],
+	"menu": {
+		"title": "Midnight",
+		"isRoot": true,
+		"items": ["openConfigWindow"]
+	},
+	"appcast": "https://midnightsketch.com/appcast.xml"
+}
