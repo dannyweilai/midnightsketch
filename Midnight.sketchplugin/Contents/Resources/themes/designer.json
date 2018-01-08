@@ -17,6 +17,7 @@
         "colorPickerBackground" : "353432",
         "sheetBackground" : "2E2D2B",
         "sheetHeader" : "4F4D49",
+        "sharedObjectSectionHeader" : "42413D",
         "overridesHeader" : "42413D",
         "stepperBackground" : "42413D",
         "stepperArrows" : "cccccc"
