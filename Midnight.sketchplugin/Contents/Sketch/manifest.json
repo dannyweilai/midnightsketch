@@ -1,12 +1,12 @@
 {
 	"name": "Midnight",
 	"description": "Dark theme for Sketch UI.",
-	"author": "Danny Lai and Yi-Ming Liu",
+	"author": "Danny, Yi-Ming and Aaron",
 	"authorEmail": "dannyweilai@gmail.com",
 	"homepage": "https://midnightsketch.com/",
 	"identifier": "com.midnightsketch.Midnight",
 	"compatibleVersion": "48",
-	"version": "1.0.2",
+	"version": "1.1",
 	"disableCocoaScriptPreprocessor": true,
 	"commands": [{
 		"name": "Midnight - Dark Theme",
@@ -19,8 +19,7 @@
 		"script": "plugin.js",
 		"handlers": {
 			"actions": {
-				"Startup": "startupHandler",
-				"OpenDocument": "openDocumentHandler"
+				"Startup": "startupHandler"
 			}
 		}
 	}],
