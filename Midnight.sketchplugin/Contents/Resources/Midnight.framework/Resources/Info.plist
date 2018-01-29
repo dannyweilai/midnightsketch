@@ -23,7 +23,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>805</string>
+	<string>1418</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -39,6 +39,6 @@
 	<key>DTXcodeBuild</key>
 	<string>9C40b</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2017 MidnightSketch. All rights reserved.</string>
+	<string>Copyright © 2018 MidnightSketch. All rights reserved.</string>
 </dict>
 </plist>
