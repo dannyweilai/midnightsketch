@@ -1,6 +1,9 @@
 {
-    "id" : "designer",
+    "id" : "com.midnightsketch.designer",
     "name" : "Designer",
+    "description" : "A dark warm theme that puts your design in focus.",
+    "author" : "Midnight",
+    "appearance" : "dark",
     "toolbarIconsTheme" : "electric",
     "colors" : {
         "text" : "dddddd",
