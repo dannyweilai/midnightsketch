@@ -1,6 +1,9 @@
 {
-    "id" : "nightowl",
+    "id" : "com.midnightsketch.nightowl",
     "name" : "Night Owl",
+    "description" : "A darker theme with cooler bluish tones for late night design sessions.",
+    "author" : "Midnight",
+    "appearance" : "dark",
     "toolbarIconsTheme" : "mono",
     "colors" : {
         "text" : "dddddd",
@@ -9,7 +12,7 @@
         "canvas" : "121212",
         "canvasEmpty" : "121212",
         "sidebars" : "171819",
-        "toolbar" : ["212121", "121212"],
+        "toolbar" : ["1B1C1E", "131314"],
         "tabbar" : "121212",
         "accent" : "1C8AFF",
         "borders" : "222426",
