@@ -16,13 +16,15 @@ function updated(n) {
 			p = n.plugin.urlForResourceNamed("runner-midnight-icon.png").path(),
 			i = NSImage.alloc().initByReferencingFile(p);
 		a.setMessageText("Thank you for updating Midnight");
-		a.setInformativeText("Please restart Sketch to complete the update process.");
+		a.setInformativeText("Please restart Sketch to complete the update.");
 		a.setIcon(i); 
+		a.addButtonWithTitle("Restart Now");
 		a.addButtonWithTitle("Later");
-		a.addButtonWithTitle("Restart");
-		if(a.runModal() == "1001") {
+		if(a.runModal() == "1000") {
 			NSUserDefaults.standardUserDefaults().setObject_forKey(c, "DLMidnight-v");
 			try { DLMidnight.restartSketch(); } catch(e) {}
+		} else {
+			NSUserDefaults.standardUserDefaults().setObject_forKey(true, "DLMidnight-restartRequired");
 		}
 	}
 	return u
