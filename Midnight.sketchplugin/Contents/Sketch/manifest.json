@@ -6,7 +6,7 @@
 	"homepage": "https://midnightsketch.com/",
 	"identifier": "com.midnightsketch.Midnight",
 	"compatibleVersion": "49",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"disableCocoaScriptPreprocessor": true,
 	"commands": [{
 		"name": "Midnight - Dark Theme",
