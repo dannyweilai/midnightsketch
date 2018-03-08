@@ -5,8 +5,8 @@
 	"authorEmail": "dannyweilai@gmail.com",
 	"homepage": "https://midnightsketch.com/",
 	"identifier": "com.midnightsketch.Midnight",
-	"compatibleVersion": "48",
-	"version": "1.2",
+	"compatibleVersion": "49",
+	"version": "1.2.1",
 	"disableCocoaScriptPreprocessor": true,
 	"commands": [{
 		"name": "Midnight - Dark Theme",

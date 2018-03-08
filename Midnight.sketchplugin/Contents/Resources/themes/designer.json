@@ -7,6 +7,7 @@
     "toolbarIconsTheme" : "electric",
     "colors" : {
         "text" : "dddddd",
+        "placeholderText" : "585858",
         "textfieldBackground" : "212121",
         "textfieldBorder" : "333333",
         "canvas" : "232220",
