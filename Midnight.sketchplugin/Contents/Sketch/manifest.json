@@ -1,33 +1,33 @@
 {
-	"name": "Midnight",
-	"description": "Dark theme for Sketch UI.",
-	"author": "Danny, Yi-Ming and Aaron",
-	"authorEmail": "dannyweilai@gmail.com",
-	"homepage": "https://midnightsketch.com/",
-	"identifier": "com.midnightsketch.Midnight",
-	"compatibleVersion": "49",
-	"version": "1.2.3",
-	"disableCocoaScriptPreprocessor": true,
-	"icon" : "icon.png",
-	"commands": [{
-		"name": "Midnight - Dark Theme",
-		"identifier": "openConfigWindow",
-		"script": "plugin.js",
-		"handler": "showConfigWindowHandler",
-		"description": "Configure dark theme.",
-		"icon": "runner-midnight-icon.png"
-	}, {
-		"script": "plugin.js",
-		"handlers": {
-			"actions": {
-				"Startup": "startupHandler"
-			}
-		}
-	}],
-	"menu": {
-		"title": "Midnight",
-		"isRoot": true,
-		"items": ["openConfigWindow"]
-	},
-	"appcast": "https://midnightsketch.com/appcast.xml"
+    "name": "Midnight",
+    "description": "Custom dark themes for Sketch.",
+    "author": "Danny, Yi-Ming and Aaron",
+    "authorEmail": "dannyweilai@gmail.com",
+    "homepage": "https://midnightsketch.com/",
+    "identifier": "com.midnightsketch.Midnight",
+    "compatibleVersion": "52",
+    "version": "2.0",
+    "disableCocoaScriptPreprocessor": true,
+    "icon" : "icons/icon.png",
+    "commands": [{
+        "name": "Midnight",
+        "identifier": "openConfigWindow",
+        "script": "plugin.js",
+        "handler": "showConfigWindowHandler",
+        "description": "Configure dark theme.",
+        "icon": "icons/runner-midnight-icon.png"
+    }, {
+        "script": "plugin.js",
+        "handlers": {
+            "actions": {
+                "Startup": "startupHandler"
+            }
+        }
+    }],
+    "menu": {
+        "title": "Midnight",
+        "isRoot": true,
+        "items": ["openConfigWindow"]
+    },
+    "appcast": "https://midnightsketch.com/appcast.xml"
 }
