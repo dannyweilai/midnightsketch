@@ -5,8 +5,8 @@
     "authorEmail": "dannyweilai@gmail.com",
     "homepage": "https://midnightsketch.com/",
     "identifier": "com.midnightsketch.Midnight",
-    "compatibleVersion": "52",
-    "version": "2.0",
+    "compatibleVersion": "54",
+    "version": "2.1",
     "disableCocoaScriptPreprocessor": true,
     "icon" : "icons/icon.png",
     "commands": [{
