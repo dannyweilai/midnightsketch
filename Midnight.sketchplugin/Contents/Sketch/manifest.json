@@ -6,7 +6,7 @@
     "homepage": "https://midnightsketch.com/",
     "identifier": "com.midnightsketch.Midnight",
     "compatibleVersion": "54",
-    "version": "2.1",
+    "version": "2.2",
     "disableCocoaScriptPreprocessor": true,
     "icon" : "icons/icon.png",
     "commands": [{
