@@ -6,15 +6,19 @@
 	<dict>
 		<key>Resources/DLMidnightConfigurationWindow.nib</key>
 		<data>
-		q15r82DBlEMnNbPPA69wYayQ/mY=
+		3dutzoaT/llArYKTDfNjJgZVFJs=
 		</data>
 		<key>Resources/DLMidnightLayerTagColorPicker.nib</key>
 		<data>
-		Ta+7ZlOZ/c6ult8HSUSIh0XEsfA=
+		WunqDsy6MjMN8Edh75H0pYmqOos=
+		</data>
+		<key>Resources/DLMidnightLayerTagCustomColors.nib</key>
+		<data>
+		tTAcBA2gOf0j49/5qNc/3bHm4h0=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		px+g0+JOg2Sl89nRwc1ZNZ7tEvY=
+		7Zl2o64y4Wk1SSjDdvULQ3aDsYw=
 		</data>
 		<key>Resources/advanced-setings.tiff</key>
 		<data>
@@ -288,6 +292,10 @@
 		<data>
 		oafQROUobdxOffEEZIc2M1HIsCw=
 		</data>
+		<key>Resources/tags-colorpicker.tiff</key>
+		<data>
+		eo0nKcEh+tokq0OKKY7Xlje0Zjc=
+		</data>
 		<key>Resources/twitter-button.tiff</key>
 		<data>
 		2Tu8pgZovl9TBnVcwFEf3Y+d2mE=
@@ -315,21 +323,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A7QmWBgZIOJxM0MPYzHjZTh4AAOV6SKsMDSxsCAEdqo=
+			KFEbUO0KBbolm6DorCdNFGnYPV9vnm5cdtmi9bhzMyA=
 			</data>
 		</dict>
 		<key>Resources/DLMidnightLayerTagColorPicker.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FQ7Wv7Sb7jqcQQGncbSZGqGrIltx+0CvoM0jacUOI9A=
+			3zxytX3LD9h8L5G+4Kq3Mw+7n2MGpDPAGcCSk0qXc5Q=
+			</data>
+		</dict>
+		<key>Resources/DLMidnightLayerTagCustomColors.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6IM/H1yjTXEAPnbAWAnL3SKgGApOJIfVZ2zP+woTrW4=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PWC86lob3uvoJuSNArccyzbRjDd8DvcwdBfjlrrrrrM=
+			159UxcX3pXmCAc87uKPIAo71xKGN2SVu6EzPuYL+234=
 			</data>
 		</dict>
 		<key>Resources/advanced-setings.tiff</key>
@@ -806,6 +821,13 @@
 			<key>hash2</key>
 			<data>
 			42gqgnc+rzbsg6u1b4Or4Qw0oNYpMLuR0Sk8iSLjl/I=
+			</data>
+		</dict>
+		<key>Resources/tags-colorpicker.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eI1D5eqbuu6aNF/lohpB2gMC8eiyjwIegiZ0eJJHlK0=
 			</data>
 		</dict>
 		<key>Resources/twitter-button.tiff</key>
